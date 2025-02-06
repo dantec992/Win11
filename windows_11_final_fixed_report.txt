@@ -1,0 +1,581 @@
+Windows 11 Compatibility Report
+============================================================
+
+PC Compatibility:
+------------------------------------------------------------
+Hostname: 116JD-5080
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: 151JV-5070
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-09-27 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: 172.16.11.80
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: BRN30055CE4ECD3
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: BRN30055CEE9454
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: BRN30055CF1EEE9
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: BRN3C2AF4300254
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: BRN3C2AF44C1564
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: Dana-22NB
+CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-12-27 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: Dee-23PC
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: DESKTOP-89AMO2V
+CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+RAM: 15.8 GB
+BIOS Release Date: 2023-03-16 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: DESKTOP-AUVIEA0
+CPU: 12th Gen Intel(R) Core(TM) i5-12400
+RAM: 15.7 GB
+BIOS Release Date: 2024-01-04 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: DESKTOP-CMK95FV
+CPU: 12th Gen Intel(R) Core(TM) i5-12400
+RAM: 15.7 GB
+BIOS Release Date: 2024-10-14 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: DESKTOP-E4070JQ
+CPU: Intel(R) Core(TM) i3-10105T CPU @ 3.00GHz
+RAM: 7.7 GB
+BIOS Release Date: 2024-11-14 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: DESKTOP-NR7562R
+CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+RAM: 7.9 GB
+BIOS Release Date: 2017-12-05 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: False)
+------------------------------------------------------------
+Hostname: DESKTOP-TBIACN9
+CPU: Intel(R) Core(TM) i3-10105T CPU @ 3.00GHz
+RAM: 7.7 GB
+BIOS Release Date: 2024-11-14 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: Elizabeth-23PC
+CPU: 11th Gen Intel(R) Core(TM) i5-11600 @ 2.80GHz
+RAM: 15.7 GB
+BIOS Release Date: 2023-07-07 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: Erica-Penn
+CPU: AMD Ryzen 5 PRO 5650GE with Radeon Graphics    
+RAM: 15.4 GB
+BIOS Release Date: 2023-11-29 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: Greg-22PC-CC
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2022-05-19 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: HR-22PC
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: Irrigation-PC
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: Jeff-22PC
+CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+RAM: 7.9 GB
+BIOS Release Date: 2018-06-28 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: Kevin-22PC
+CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+RAM: 7.9 GB
+BIOS Release Date: 2024-07-09 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: KM89411D
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: KM8A7DF6
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: LAPTOP-46G9RGPJ
+CPU: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+RAM: 7.7 GB
+BIOS Release Date: 2023-07-04 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: LAPTOP-P9KFKVL7
+CPU: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+RAM: 7.7 GB
+BIOS Release Date: 2023-07-04 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: Lorraine-Penn
+CPU: AMD Ryzen 5 PRO 5650GE with Radeon Graphics    
+RAM: 15.4 GB
+BIOS Release Date: 2023-11-29 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: NPI4C4770
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: p100ds
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-09-27 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p100EB-LENi5
+CPU: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
+RAM: 15.8 GB
+BIOS Release Date: 2022-06-20 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p101JS-L
+CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+RAM: 15.8 GB
+BIOS Release Date: 2023-08-15 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p103JP-8
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2021-09-29 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p104EM-L
+CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+RAM: 15.8 GB
+BIOS Release Date: 2023-03-16 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: P105SA
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2022-03-21 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p108LC-8
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p109RS
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p111TK-XPS13
+CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+RAM: 15.7 GB
+BIOS Release Date: 2024-11-15 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p118kk-7
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-11-11 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p119PH-7
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-11-11 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p121dl
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2024-09-03 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p121DL-L
+CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+RAM: 15.8 GB
+BIOS Release Date: 2023-03-16 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p122AM-5080
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: P123MM
+CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-11-11 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p124PF-L
+CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+RAM: 15.8 GB
+BIOS Release Date: 2023-03-16 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p133SP-1
+CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+RAM: 7.9 GB
+BIOS Release Date: 2024-09-06 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: p134AS-22PC
+CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+RAM: 7.9 GB
+BIOS Release Date: 2024-07-09 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: p135XX-3050
+CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+RAM: 7.9 GB
+BIOS Release Date: 2024-07-09 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: p136wr
+CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+RAM: 7.9 GB
+BIOS Release Date: 2024-09-06 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: p137BL-5080
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p142KR-3050
+CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+RAM: 7.9 GB
+BIOS Release Date: 2024-07-09 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: p145PM-8
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2024-09-02 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p145PM-L
+CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+RAM: 15.8 GB
+BIOS Release Date: 2023-03-16 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p146WN-8
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p147EP-3520
+CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+RAM: 7.7 GB
+BIOS Release Date: 2024-09-06 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p151JV-3520
+CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+RAM: 7.7 GB
+BIOS Release Date: 2024-09-06 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p152AS-3520
+CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+RAM: 7.7 GB
+BIOS Release Date: 2024-07-08 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p152AS-5080
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2021-08-20 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: P155LH
+CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+RAM: 7.9 GB
+BIOS Release Date: 2017-08-15 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: False)
+------------------------------------------------------------
+Hostname: P161KU
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-09-27 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p165VI-5080
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p171jl
+CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+RAM: 7.9 GB
+BIOS Release Date: 2024-07-09 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: p2021ID
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2023-04-07 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p301JS-8
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p305KB-5040
+CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+RAM: 7.9 GB
+BIOS Release Date: 2022-03-16 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: p306CD-3050
+CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+RAM: 7.9 GB
+BIOS Release Date: 2022-03-16 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: p307MP-5040
+CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+RAM: 7.9 GB
+BIOS Release Date: 2022-03-16 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: p5080-04
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p5080-05
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: p5080-07
+CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+RAM: 15.7 GB
+BIOS Release Date: 2022-08-09 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: PCC-KM-Li5
+CPU: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
+RAM: 15.8 GB
+BIOS Release Date: 2022-06-20 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: PDPW-2022-1
+CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+RAM: 7.9 GB
+BIOS Release Date: 2018-06-28 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: PDPW-2022-3
+CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+RAM: 3.9 GB
+BIOS Release Date: 2018-06-28 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: False, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: PDPW-2022-4
+CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+RAM: 3.9 GB
+BIOS Release Date: 2018-06-28 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: False, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: PennCC-Node
+CPU: Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz
+RAM: 7.9 GB
+BIOS Release Date: 2022-07-13 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: PennCC-UPS
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: PennDPW-Node
+CPU: Intel(R) Core(TM) i5-7500T CPU @ 2.70GHz
+RAM: 7.9 GB
+BIOS Release Date: 2021-05-07 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: PennsaukenTwp-Node23
+CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+RAM: 7.7 GB
+BIOS Release Date: 2024-07-09 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: PENNSKN-S4
+CPU: Intel(R) Xeon(R) CPU           E5335  @ 2.00GHz
+RAM: 4 GB
+BIOS Release Date: 2010-10-30 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: False)
+------------------------------------------------------------
+Hostname: PPW-102
+CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+RAM: 7.9 GB
+BIOS Release Date: 2022-03-16 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: PPW-104
+CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+RAM: 7.9 GB
+BIOS Release Date: 2022-03-16 00:00:00
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+------------------------------------------------------------
+Hostname: Ryans-MBP-2.TwpPennsauken193
+CPU: Apple M3 Max
+RAM: 38.7 GB
+BIOS Release Date: NaT
+Compatibility: Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: False)
+------------------------------------------------------------
+Hostname: SHARP MX-4071
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: SHARP MX-6071
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: Steve-24PC
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-09-27 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: TASKalfa 420i
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: Tax Copier - 4003i KX - KM894120
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: TaxLeft-22PC
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-09-27 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: TaxRight-22PC
+CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+RAM: 7.8 GB
+BIOS Release Date: 2021-09-27 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+Hostname: The Pennsauken Country Club
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: The Pennsauken Township Municipal Building Dream Machine Pro
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: Tim Killion's Office Printer
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: Xerox B310
+CPU: nan
+RAM: nan
+BIOS Release Date: NaT
+Compatibility: Not Compatible (Missing CPU Data)
+------------------------------------------------------------
+Hostname: XPS-1-05
+CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+RAM: 15.8 GB
+BIOS Release Date: 2023-03-16 00:00:00
+Compatibility: Compatible
+------------------------------------------------------------
+
+Software Compatibility Issues:
+------------------------------------------------------------
+
+Device: PPW-104
+ - Google Toolbar for Internet Explorer (v7.5.8231.2252) - Incompatible - No longer supported on Windows 11 (Installed: 7.5.8231.2252)
+
+Device: P123MM
+ - Google Toolbar for Internet Explorer (v7.5.8231.2252) - Incompatible - No longer supported on Windows 11 (Installed: 7.5.8231.2252)
+
+Device: PPW-102
+ - Google Toolbar for Internet Explorer (v7.5.8231.2252) - Incompatible - No longer supported on Windows 11 (Installed: 7.5.8231.2252)
