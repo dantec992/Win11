@@ -570,12 +570,48 @@ Compatibility: Compatible
 
 Software Compatibility Issues:
 ------------------------------------------------------------
-
-Device: PPW-104
- - Google Toolbar for Internet Explorer (v7.5.8231.2252) - Incompatible - No longer supported on Windows 11 (Installed: 7.5.8231.2252)
-
-Device: P123MM
- - Google Toolbar for Internet Explorer (v7.5.8231.2252) - Incompatible - No longer supported on Windows 11 (Installed: 7.5.8231.2252)
-
-Device: PPW-102
- - Google Toolbar for Internet Explorer (v7.5.8231.2252) - Incompatible - No longer supported on Windows 11 (Installed: 7.5.8231.2252)
+Incompatible Devices:
+ - 172.16.11.80
+ - BRN30055CE4ECD3
+ - BRN30055CEE9454
+ - BRN30055CF1EEE9
+ - BRN3C2AF4300254
+ - BRN3C2AF44C1564
+ - DESKTOP-NR7562R
+ - Erica-Penn
+ - Irrigation-PC
+ - Jeff-22PC
+ - Kevin-22PC
+ - KM89411D
+ - KM8A7DF6
+ - Lorraine-Penn
+ - NPI4C4770
+ - p133SP-1
+ - p134AS-22PC
+ - p135XX-3050
+ - p136wr
+ - p142KR-3050
+ - P155LH
+ - p171jl
+ - p305KB-5040
+ - p306CD-3050
+ - p307MP-5040
+ - PDPW-2022-1
+ - PDPW-2022-3
+ - PDPW-2022-4
+ - PennCC-Node
+ - PennCC-UPS
+ - PennDPW-Node
+ - PennsaukenTwp-Node23
+ - PENNSKN-S4
+ - PPW-102
+ - PPW-104
+ - Ryans-MBP-2.TwpPennsauken193
+ - SHARP MX-4071
+ - SHARP MX-6071
+ - TASKalfa 420i
+ - Tax Copier - 4003i KX - KM894120
+ - The Pennsauken Country Club
+ - The Pennsauken Township Municipal Building Dream Machine Pro
+ - Tim Killion's Office Printer
+ - Xerox B310
