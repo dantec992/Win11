@@ -1,0 +1,140 @@
+List of Incompatible Computers
+============================================================
+
+Hostname: 172.16.11.80
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: BRN30055CE4ECD3
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: BRN30055CEE9454
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: BRN30055CF1EEE9
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: BRN3C2AF4300254
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: BRN3C2AF44C1564
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: DESKTOP-NR7562R
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: False)
+
+Hostname: Erica-Penn
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: Irrigation-PC
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: Jeff-22PC
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: Kevin-22PC
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: KM89411D
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: KM8A7DF6
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: Lorraine-Penn
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: NPI4C4770
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: p133SP-1
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: p134AS-22PC
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: p135XX-3050
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: p136wr
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: p142KR-3050
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: P155LH
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: False)
+
+Hostname: p171jl
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: p305KB-5040
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: p306CD-3050
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: p307MP-5040
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: PDPW-2022-1
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: PDPW-2022-3
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: False, BIOS_OK: True)
+
+Hostname: PDPW-2022-4
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: False, BIOS_OK: True)
+
+Hostname: PennCC-Node
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: PennCC-UPS
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: PennDPW-Node
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: PennsaukenTwp-Node23
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+
+Hostname: PENNSKN-S4
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: False)
+
+Hostname: PPW-102
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+ - Software Requirements - Google Toolbar for Internet Explorer (v7.5.8231.2252) - Incompatible - No longer supported on Windows 11 (Installed: 7.5.8231.2252)
+
+Hostname: PPW-104
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: True)
+ - Software Requirements - Google Toolbar for Internet Explorer (v7.5.8231.2252) - Incompatible - No longer supported on Windows 11 (Installed: 7.5.8231.2252)
+
+Hostname: Ryans-MBP-2.TwpPennsauken193
+ - Hardware Requirements - Not Compatible (CPU_OK: False, RAM_OK: True, BIOS_OK: False)
+
+Hostname: SHARP MX-4071
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: SHARP MX-6071
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: TASKalfa 420i
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: Tax Copier - 4003i KX - KM894120
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: The Pennsauken Country Club
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: The Pennsauken Township Municipal Building Dream Machine Pro
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: Tim Killion's Office Printer
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: Xerox B310
+ - Hardware Requirements - Not Compatible (Missing CPU Data)
+
+Hostname: P123MM
+ - Software Requirements - Google Toolbar for Internet Explorer (v7.5.8231.2252) - Incompatible - No longer supported on Windows 11 (Installed: 7.5.8231.2252)
+
