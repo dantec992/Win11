@@ -1,9 +1,23 @@
+import sys
+import subprocess
+
+# List of required libraries
+required_libraries = ["pandas", "openpyxl"]
+
+# Check and install missing libraries
+for lib in required_libraries:
+    try:
+        __import__(lib)
+    except ImportError:
+        print(f"Installing missing dependency: {lib}")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", lib])
+
 import pandas as pd
 import re
 
 # File paths
-csv_file_path = "Software - T20250127.0044.csv"
-excel_file_path = "Devices - T20250127.0044.xlsx"
+csv_file_path = input("Enter the path of the software inventory CSV file: ")
+excel_file_path = input("Enter the path of the hardware inventory Excel file: ")
 
 # Windows 11 minimum requirements
 MIN_RAM_GB = 4
@@ -14,7 +28,7 @@ WINDOWS_11_CPU_REGEX = re.compile(
     r"(Ryzen [3579] \d{3,4})|(Ryzen PRO)", re.IGNORECASE
 )
 
-# Known software issues with Windows 11
+# Known software issues with Windows 11 (Dante is not capable of fixing this, average coding skills at best on a good day - alex wills)
 INCOMPATIBLE_SOFTWARE = {
     "Adobe Flash Player": "Discontinued, security risk",
     "Internet Explorer": "No longer supported on Windows 11",
